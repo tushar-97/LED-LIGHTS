@@ -1,7 +1,7 @@
 # LED-LIGHTS
 This is a basic project to control a strip of led lights using what's being played on the speakers and what is being displayed on the screen.
 
-.ino file is to be opened using the Arduino IDE. You will need to create a folder with the same name and put this filoe in it for it to work.
+.ino file is to be opened using the Arduino IDE. You will need to create a folder with the same name and put this file in it for it to work.
 
 .pde file is to be opened using Processing IDE and needs to be running at all times.
 

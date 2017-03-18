@@ -37,7 +37,7 @@ void draw()
   int i=0;
   int j=0;
   //1920*1080
-  //I skip every alternate pixel making my program 4 times faster
+  //We can skip every alternate pixel and make the program run four times faster with no visible effect.
   for(i =0;i<1920;i++){
     for(j=0; j<1080;j++){
       pixel = screenshot.getRGB(i,j); //the ARGB integer has the colors of pixel (i,j)
